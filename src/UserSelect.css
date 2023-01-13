@@ -1,0 +1,11 @@
+#userSelect {
+  position: absolute;
+  border: 1px solid green;
+  top: 0;
+  padding: 1rem;
+  left: 0;
+}
+
+#userSelect button {
+  margin-left: 0.5rem; 
+}

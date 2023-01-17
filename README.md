@@ -14,6 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+To run with mock data:
+`REACT_APP_MOCK_ENABLED=true npm start`
+
+To run with real data (assuming the messenger app is running and listening on port 4000)
+`REACT_APP_MOCK_ENABLED=false REACT_APP_BACKEND_HOST=localhost:4000 npm start`
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\

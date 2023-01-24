@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-The following is a set of guidelines for contributing to the messenger_ui. We really appreciate that you are considering contributing!
+The following is a set of guidelines for contributing to this repository. We really appreciate that you are considering contributing!
 
 #### Table Of Contents
 
@@ -14,7 +14,7 @@ The following is a set of guidelines for contributing to the messenger_ui. We re
 
 ## Getting Started
 
-Follow our [Installation Guide](https://github.com/microservices-march/messenger-ui/blob/main/README.md#Installation) to get the messenger_ui up and running.
+Follow our [Setup Guide](https://github.com/microservices-march/messenger-ui/blob/main/README.md#Setup) to get this repository up and running.
 
 <!-- ### Project Structure (OPTIONAL) -->
 
@@ -24,9 +24,9 @@ Follow our [Installation Guide](https://github.com/microservices-march/messenger
 
 To report a bug, open an issue on GitHub with the label `bug` using the available bug report issue template. Please ensure the bug has not already been reported. **If the bug is a potential security vulnerability, please report using our security policy.**
 
-### Suggest a Feature or Enhancement
+### Suggest an Enhancement
 
-To suggest a feature or enhancement, please create an issue on GitHub with the label `feature` or `enhancement` using the available feature request issue template. Please ensure the feature or enhancement has not already been suggested.
+To suggest an enhancement, please create an issue on GitHub with the label `enhancement` using the available feature request issue template. Please ensure the enhancement has not already been suggested.
 
 ### Open a Pull Request
 
